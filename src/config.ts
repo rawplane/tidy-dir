@@ -1,16 +1,17 @@
 export const SITE = {
   website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
   title: "Rasya Portfolio",
-  description: "A simple but beautiful portfolio created with Astro",
+  description:
+    "Portofolio yang berbasis website di implementasikan menggunakan astro js",
   tags: ["portfolio", "Resume cv", "Astro"],
   ogImage: "/og-image.webp",
   logo: "logo",
   logoText: "Portofolio",
   lang: "en",
   favicon: "/favicon.png",
-  repository: "https://github.com/vito8916/simple-portfolio.git",
+  repository: "https://github.com/metoraw",
   author: "Rasya Adrian",
-  profile: "https://victoralvarado.dev/",
+  profile: "",
 };
 
 export const ME = {
@@ -24,29 +25,28 @@ export const ME = {
     },
   ],
   contactInfo: {
-    email: "vicbox.dev@vicbox.dev",
-    linkedin: "https://www.linkedin.com/in/victor-alvaradohn",
+    email: "rasyaadrian1234@gmail.com",
+    linkedin: "https://www.linkedin.com/in/rasya-adrian-104a68275/",
     resumeDoc: "resume.pdf",
   },
   aboutMe:
-    "I am a software engineer with a passion for web development. I have experience in building web " +
-    "applications using modern technologies. I am a self-taught developer who enjoys learning new things and " +
-    "sharing knowledge with others.",
+    "Saya adalah pelajar SMK Prisma Depok yang mempunyai keterampilan di bidang Web Developer. " +
+    "Saya sangat suka mengembangkan dan membuat sebuah aplikasi berbasis website yang di harapkan dapat berkontribusi di masyarakat, " +
+    "dan saya juga suka sharing ilmu di artikel saya.",
 };
 
 export const SOCIALS = [
   {
     name: "Instagram",
-    url: "https://www.instagram.com/vicbox.dev",
+    url: "https://www.instagram.com/76_raw/",
     icon: "instagram-fill",
     show: true,
   },
 
   {
     name: "GitHub",
-    url: "https://github.com/vicbox.dev",
+    url: "https://github.com/metoraw",
     icon: "github-fill",
     show: true,
   },
 ];
-
