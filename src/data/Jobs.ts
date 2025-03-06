@@ -46,6 +46,7 @@ const workExperience: WorkExperience[] = [
   {
     title: "Web Developer",
     startDate: "2024-10-08",
+    endDate: "2024-11-21",
     company: "SMK Prisma Depok",
     location: "",
     description:
