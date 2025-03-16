@@ -17,6 +17,11 @@ const hardSkills: HardSkill[] = [
     icon: "nodejs",
   },
   {
+  name: "Tailwind",
+  description: "Ini adalah framework css yang saya sering pakai",
+  icon: "tailwindcss",
+  },
+  {
     name: "Excel",
     description: "Saya juga dapat menggunakan excel untuk mengelola data saya.",
     icon: "excel",
