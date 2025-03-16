@@ -49,6 +49,7 @@
     "astro-icon": "^1.1.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "corepack": "^0.32.0",
     "extract-colors": "^4.1.0",
     "lucide-react": "^0.456.0",
     "react": "^18.3.1",
@@ -60,5 +61,6 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15"
-  }
+  },
+  "packageManager": "pnpm@10.6.3+sha1.43e3aa4a371d889dfb0ffe7a9b5d4ca0668ccaa9"
 }
