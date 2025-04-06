@@ -1,15 +1,15 @@
 export const SITE = {
-  website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
+  website: "https://portfolio-rasya-adrian-76.vercel.app/", // replace this with your deployed domain
   title: "Rasya Portfolio",
   description:
     "Portofolio yang berbasis website di implementasikan menggunakan astro js",
   tags: ["portfolio", "Resume cv", "Astro"],
   ogImage: "/og-image.webp",
-  logo: "logo",
+  logo: "logo_rasya",
   logoText: "Portofolio",
   lang: "en",
-  favicon: "/favicon.png",
-  repository: "https://github.com/metoraw",
+  favicon: "/favicon_rasya.png",
+  repository: "https://github.com/rawplane",
   author: "Rasya Adrian",
   profile: "",
 };
