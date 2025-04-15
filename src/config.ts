@@ -27,7 +27,7 @@ export const ME = {
   contactInfo: {
     email: "rasyaadrian1234@gmail.com",
     linkedin: "https://www.linkedin.com/in/rasya-adrian-104a68275/",
-    resumeDoc: "resume.pdf",
+    resumeDoc: "cv_rasya.pdf",
   },
   aboutMe:
     "Saya adalah pelajar SMK Prisma Depok yang mempunyai keterampilan di bidang Web Developer. " +
