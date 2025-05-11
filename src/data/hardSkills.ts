@@ -7,13 +7,13 @@ interface HardSkill {
 const hardSkills: HardSkill[] = [
   {
     name: "AstroJs",
-    description: "Ini adalah framework untuk membuat website saya.",
+    description: "Ini adalah framework untuk membuat static website saya.",
     icon: "astro_dark",
   },
   {
     name: "NodeJs",
     description:
-      "Runtime JavaScript yang memungkinkan saya menjalankan kode di luar browser. Saya menggunakannya untuk mengelola dependensi proyek.",
+      "Runtime JavaScript yang memungkinkan saya menjalankan kode di luar browser. Saya menggunakannya untuk mengelola dependensi proyek saya.",
     icon: "nodejs",
   },
   {
@@ -22,14 +22,14 @@ const hardSkills: HardSkill[] = [
   icon: "tailwindcss",
   },
   {
-    name: "Excel",
-    description: "Saya juga dapat menggunakan excel untuk mengelola data saya.",
-    icon: "excel",
+    name: "Microsoft Office Suite",
+    description: "Saya menggunakan microsoft office untuk membuat dokumen, mengelola data, dan membuat slide presentasi melalui Word, Excel, dan Power Point.",
+    icon: "microsoft",
   },
   {
     name: "Git",
     description:
-      "Sistem version control yang saya gunakan untuk mengelola perubahan kode secara efisien, berkolaborasi dalam tim, serta menjaga integritas proyek",
+      "Sistem version control yang saya gunakan untuk mengelola perubahan kode saya.",
     icon: "git",
   },
   {
