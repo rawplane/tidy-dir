@@ -38,7 +38,7 @@ export const ME = {
 export const SOCIALS = [
   {
     name: "Instagram",
-    url: "https://www.instagram.com/76_raw/",
+    url: "https://www.instagram.com/rasyadrnn/",
     icon: "instagram-fill",
     show: true,
   },
