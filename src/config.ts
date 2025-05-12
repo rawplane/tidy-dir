@@ -32,7 +32,7 @@ export const ME = {
   aboutMe:
     "Saya adalah pelajar SMK Prisma Depok yang mempunyai keterampilan di bidang Web Developer. " +
     "Saya sangat suka mengembangkan dan membuat sebuah aplikasi berbasis website yang di harapkan dapat berkontribusi di masyarakat, " +
-    "dan saya juga suka sharing ilmu di artikel saya.",
+    "dan saya juga suka sharing ilmu di artikel dan konten saya.",
 };
 
 export const SOCIALS = [
@@ -45,7 +45,7 @@ export const SOCIALS = [
 
   {
     name: "GitHub",
-    url: "https://github.com/metoraw",
+    url: "https://github.com/rawplane",
     icon: "github-fill",
     show: true,
   },
